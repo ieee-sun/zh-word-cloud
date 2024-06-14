@@ -1,0 +1,288 @@
+溫度
+天氣狀況或現象
+降雨機率
+舒適度
+高溫
+低溫
+雨量
+日出
+日落
+潮位
+時間
+潮高
+滿潮
+乾潮
+風向
+風力
+浪高
+陣風
+氣溫
+相對溼度
+海平面氣壓
+累積雨量
+能見度
+紫外線指數
+雨
+陣雨
+凍雨
+過冷雨
+毛雨
+凍毛雨
+過冷卻毛雨
+雪
+雨夾雪
+陣雪
+陣雨夾雪
+霰
+雪粒
+冰珠
+小雹
+雹
+雪暴
+高吹雪
+冰稜
+鑽石塵
+霧
+低霧
+淺霧
+冰霧
+靄
+吹雪
+低吹雪
+高吹雪
+浪沫或浪花
+露
+白露
+白霜
+冰柱
+霧冰
+樹霜
+霧淞
+霜淞
+雨淞
+積雪
+冠雪
+結冰
+龍捲或漏斗雲
+霾
+塵霾
+黃砂
+煙
+降灰
+吹塵
+低吹塵
+高吹塵
+塵暴或沙暴
+塵旋或沙旋
+雷暴或雷雨
+閃電
+雷聲
+農業氣象學
+風速計
+氣壓計
+氣壓
+蒲福風級
+氣候
+氣候學
+寒潮
+資料同化
+都卜勒氣象雷達
+乾旱
+聖嬰
+暴洪
+鋒面
+大雨
+反聖嬰
+梅雨
+氣象學
+季風
+即時預報
+數值天氣預報
+雨量器
+劇烈天氣
+豪雨
+熱帶氣旋
+熱帶性低氣壓
+海嘯
+颱風
+天氣圖
+天氣預報
+天氣資料整合暨即時預報系統
+天氣改造
+天氣展望
+世界氣象組織
+資料浮標
+海洋氣象學
+大潮
+風暴潮
+湧浪
+潮汐預報
+波浪預報
+強震儀
+餘震
+地震速報系統
+震央
+斷層
+震源機制
+前震
+震源
+主震
+板塊運動
+芮氏規模
+地震帶
+地震活動
+地震儀
+地震學
+地震矩規模
+天文日曆
+月食
+流星雨
+日食
+太陽黑子
+氣候變異與劇烈天氣監測預報系統發展計畫
+臺灣強地動觀測計畫
+temperature
+weather
+probability of precipitation
+comfort index
+maximum temperature
+minimum temperature
+precipitation
+sunrise
+sunset
+water level
+time
+tidal height
+high tide
+low tide
+wind direction
+wind
+wave height
+gust wind
+temperature
+relative humidity
+pressure
+accumulated precipitation
+visibility
+ultraviolet index
+rain
+rain shower
+freezing rain
+supercooled rain
+drizzle
+freezing drizzle
+supercooled drizzle
+snow
+rain and snow mixed
+snow shower
+rain shower and snow mixed
+snow pellets
+snow grains
+ice pellets
+small hail
+hail
+snow storm
+blowing snow
+diamond dust
+fog
+ground fog
+shallow fog
+ice fog
+mist
+drifting snow
+drifting snow
+blowing snow
+spray
+dew
+white dew
+hoar frost
+ice columns
+rime ice
+air hoar
+rime/soft rime
+hard rime
+glaze
+snow cover
+snow crust
+freezing
+tornado
+haze
+dust haze
+yellow sand
+smoke
+ash fall
+drifting and blowing dust
+drifting dust
+blowing dust
+blowing sand
+dust storm
+sand storm
+dust whirl
+sand whirl
+thunderstorm
+lightning
+thunder
+agrometeorology
+anemometer
+barometer
+barometric pressure
+Beaufort wind scale
+climate
+climatology
+cold surge
+data assimilation
+Doppler weather radar
+drought
+El Nino
+flash flood
+front
+heavy rain
+La Nina
+Mei-Yu
+meteorology
+monsoon
+nowcasting
+numerical weather prediction
+rain gauge
+severe weather
+extremely heavy rain
+tropical cyclone
+tropical depression
+tsunami
+typhoon
+weather chart
+weather forecast
+Weather Integration and Nowcasting System
+weather modification
+weather outlook
+World Meteorological Organization
+data buoy
+marine meteorology
+spring tide
+storm surge
+swell
+tidal forecast
+wave forecast
+accelerometer
+aftershock
+Earthquake Rapid Reporting System
+epicenter
+fault
+focal mechanism
+foreshock
+hypocenter
+mainshock
+plate tectonics
+Richter magnitude
+seismic belt
+seismicity
+seismograph
+seismology
+moment magnitude
+astronomical almanac
+lunar eclipse
+meteor shower
+solar eclipse
+sunspot
+Climate Variation and Severe Weather Monitoring and Forecasting System Development Program
+Taiwan Strong Motion Instrument Program
