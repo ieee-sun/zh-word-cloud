@@ -9,7 +9,7 @@
 ![Python :: 3.10 ::](https://img.shields.io/badge/Python-3.10-blue)
 ![Chinese Segmentation](https://img.shields.io/badge/中文-Chinese%20Segmentation-darkgreen)
 ![Cultural Open Access](https://img.shields.io/badge/Cultural%20OPEN%20ACCESS-F68212)
-> <img src="https://github.com/ieee-sun/zh-word-cloud/assets/172009644/271cc6cb-28c6-45dd-ba29-759a6c304918" title="大學 文字雲 wordcloud" width=800 height=800>
+> <img src="https://github.com/ieee-sun/zh-word-cloud/assets/172009644/271cc6cb-28c6-45dd-ba29-759a6c304918" title="大學 文字雲 wordcloud" width=800>
 >
 > 禮記·大學 文字雲
 
