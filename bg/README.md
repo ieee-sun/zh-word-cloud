@@ -1,1 +1,1 @@
-This folder contains background image `.jpg` you want to make the Cloud's shape, or instruct the font-color scheme.
+This folder contains background image `.jpg` `.png`you want to make the Cloud's shape, or instruct the font-color scheme.
