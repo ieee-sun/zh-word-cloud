@@ -1,4 +1,5 @@
-# Chinese Word-Cloud rendering 繪製文字雲
+# Chinese Word-Cloud rendering 
+# 繪製文字雲
 - Segmentatino (thanks to [github.com/fxsjy/jieba](https://github.com/fxsjy/jieba))
 - Normalized / Tokenized Walkthrough + Demo
 - (optional) - Project-specfic keywords (e.g. `程子`,`知本`, `強地動觀測計畫`) fetching
