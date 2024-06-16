@@ -13,8 +13,7 @@
 >
 > 禮記·大學 文字雲
 
->
-> <img src="https://github.com/ieee-sun/zh-word-cloud/assets/172009644/971da225-e6e8-4c12-a2b5-5517c1bc9370" title="As You Like It, William Shakespeare" width=800>
+> <img src="https://github.com/ieee-sun/zh-word-cloud/assets/172009644/4efe528d-9059-4ff9-94c9-2b4737fb8cf8" title="As You Like It, William Shakespeare" width=800>
 >
 > *As You Like It* by William Shakespeare - Wordcloud
 
@@ -23,8 +22,9 @@ One of our demo is using `jieba-tw`  as zh-Hant environment:
 # ZH ENVIRONMENT CONSTANT
 
     # Download the traditional chinese dictionary from jieba-tw
-    ### 繁體字較完整詞庫
+    ### 繁體字 Jeiba-tw 詞庫
     ### [ https://raw.githubusercontent.com/ldkrsi/jieba-zh_TW/master/jieba/dict.txt ]
+
 zh_DICT_FILEPATH = '/content/jieba/dict_jieba_tw_Dec2023.txt'
 zh_DICT2_FILEPATH = '/content/jieba/dict_jeiba_tc_big.txt'
 zh_STOPWORD_FILEPATH = '/content/jieba/sun-chinese-stopwords2023.txt'
